@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/teerex-store-app/static/css/main.6ddebfd5.css",
+    "main.js": "/teerex-store-app/static/js/main.ac85193d.js",
+    "static/js/787.f46f4179.chunk.js": "/teerex-store-app/static/js/787.f46f4179.chunk.js",
+    "index.html": "/teerex-store-app/index.html",
+    "main.6ddebfd5.css.map": "/teerex-store-app/static/css/main.6ddebfd5.css.map",
+    "main.ac85193d.js.map": "/teerex-store-app/static/js/main.ac85193d.js.map",
+    "787.f46f4179.chunk.js.map": "/teerex-store-app/static/js/787.f46f4179.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ddebfd5.css",
+    "static/js/main.ac85193d.js"
+  ]
+}
