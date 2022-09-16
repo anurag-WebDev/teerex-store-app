@@ -1,0 +1,42 @@
+.filtersDesktopView {
+  display: none;
+}
+
+.filtersMobileView {
+  display: none;
+}
+
+@media screen and (min-width: 768px) {
+  .filtersMobileView {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .filtersDesktopView {
+    display: block;
+  }
+}
+
+.searchBar {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding: 1rem;
+}
+
+.filtersBox {
+  background-color: snow;
+  padding: 1rem;
+}
+
+.colorFilters {
+  display: flex;
+  flex-direction: column;
+  padding-top: 0.5rem;
+}
+
+.products-container {
+  padding-right: 2rem;
+  padding-left: 2rem;
+}
